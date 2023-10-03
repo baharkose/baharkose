@@ -1,12 +1,12 @@
 ### Hi there 👋
 
          ∧,,,∧~        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-       (  ̳• · •)  ̳           Welcome to my page!!!   
+       (  ̳• · •)           Welcome to my page🌈   
        /       づ      ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 
 - 🔭 I’m currently working on software development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
