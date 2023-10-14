@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-         ∧,,,∧~        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-       (  ̳• · •)           Welcome to my page🌈🌺   
-       /       づ      ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-
 - 🔭 I’m currently working on software development
 - 🌱 I’m a non-stop learner 
 - 💬 Ask me about everything
