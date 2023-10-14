@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😊
 
 - 🔭 I’m currently working on software development
 - 🌱 I’m a non-stop learner 📝
