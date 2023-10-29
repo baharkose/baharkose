@@ -1,4 +1,4 @@
-### Hi there 👋😊, my name is Bahar
+### Hi there 👋😊, I'm Bahar
 
 - 🔭 I’m currently studying on software development
 - 🌱 I’m a non-stop learner 📝
