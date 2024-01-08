@@ -55,7 +55,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies | Preview |
 | ------- | ----------- | ------------ | ------- |
-| **[Store](Project-Link)** | Brief description of what this project does and what it's about. | `React`, `Tailwind`, `ContextApi`,`React Router`| ![Project 1 Preview](![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a)
+| **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of what this project does and what it's about. | `React`, `Tailwind`, `ContextApi`,`React Router`| ![Project 1 Preview](![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a)
 ) |
 | **[Project 2 Name](Project-Link)** | An engaging description that highlights the project's main features. | `Tech1`, `Tech2` | ![Project 2 Preview](Image-Link) |
 | **[Project 3 Name](Project-Link)** | A quick overview that explains the project's purpose and its impact. | `Tech1`, `Tech2`, `Tech3`, `Tech4` | ![Project 3 Preview](Image-Link) |
