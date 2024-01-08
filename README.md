@@ -83,8 +83,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | Project | Description | Technologies | Preview |
 | ------- | ----------- | ------------ | ------- |
 | **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of what this project does and what it's about. | `React`, `Tailwind`, `ContextApi`,`React Router`| ![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a)
-) |
-| **[RecipeApp]([Project-Link](https://lnkd.in/d6M4yD-3))** | n my recent project, I integrated a Recipe API with React Router and Firebase, creating a user-friendly SPA with secure authentication. Tailwind CSS was used to design a modern, responsive interface, enhancing my skills in web development. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi`, | ![image](https://github.com/baharkose/baharkose/assets/110201916/43913ec7-983e-4b74-9dd5-37fb3d88e3cf)
+| **[RecipeApp]([Project-Link](https://lnkd.in/d6M4yD-3))** | In my recent project, I integrated a Recipe API with React Router and Firebase, creating a user-friendly SPA with secure authentication. Tailwind CSS was used to design a modern, responsive interface, enhancing my skills in web development. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi`, | ![image](https://github.com/baharkose/baharkose/assets/110201916/43913ec7-983e-4b74-9dd5-37fb3d88e3cf)
 
  |
 | **[Project 3 Name](Project-Link)** | A quick overview that explains the project's purpose and its impact. | `#WebDevelopment #ReactJS #Firebase #TailwindCSS #CodingJourney #APIIntegration #api #firebase #contextproivder #router`,  | ![Project 3 Preview](Image-Link) |
