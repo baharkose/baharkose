@@ -7,35 +7,21 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
+**Languages**: 
+`JavaScript` `TypeScript` `Python`
 
-**Languages**:  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript) 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python)
+**Frontend**: 
+`React` `Redux` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
-**Frontend**:  
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react) 
-![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat&logo=tailwind-css) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap)
+**Backend**: 
+`Node.js` `Express.js`
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js) 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express)
+**Databases**: 
+`MongoDB` `MySQL` `PostgreSQL`
 
-**Databases**:  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb) 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql)
+**Tools**: 
+`Git` `GitHub` `Visual Studio Code` `Docker`
 
-**Tools**:  
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github) 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat&logo=visual-studio-code) 
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker)
 
 
 ## 🚀 Skills
