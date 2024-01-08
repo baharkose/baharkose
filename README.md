@@ -7,22 +7,33 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
 
 ## 🛠️ Technologies & Tools
 
-**Languages**: 
-`JavaScript` `TypeScript` `Python`
+🖥 **Languages**:
+- JavaScript
+- TypeScript
+- Python
 
-**Frontend**: 
-`React` `Redux` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+💻 **Frontend**:
+- React
+- Redux
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-**Backend**: 
-`Node.js` `Express.js`
+🔌 **Backend**:
+- Node.js
+- Express.js
 
-**Databases**: 
-`MongoDB` `MySQL` `PostgreSQL`
+💾 **Databases**:
+- MongoDB
+- MySQL
+- PostgreSQL
 
-**Tools**: 
-`Git` `GitHub` `Visual Studio Code` `Docker`
-
-
+🔧 **Tools**:
+- Git
+- GitHub
+- Visual Studio Code
+- Docker
 
 ## 🚀 Skills
 <p>
