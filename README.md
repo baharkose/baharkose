@@ -63,16 +63,17 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 <div align="center">
   <a href="https://github.com/baharkose">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baharkose&show_icons=true&theme=radical" alt="Bahar's GitHub Stats" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=baharkose&show_icons=true&theme=radical" alt="Bahar's GitHub Stats" height="180em"/>
   </a>
   <a href="https://github.com/baharkose">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baharkose&theme=radical" width="400px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baharkose&theme=radical" height="180em"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baharkose&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baharkose&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
 </div>
+
 
 
 ### 📫 How to Reach Me
