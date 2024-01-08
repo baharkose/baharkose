@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Bahar Köse 👩‍💻
+## Hi there 👋, I'm Bahar 👩‍💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Bahar_Köse-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baharkose/)
 
