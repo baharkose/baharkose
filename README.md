@@ -5,35 +5,14 @@
 
 I'm a passionate web developer specializing in front-end technologies. I love creating interactive and dynamic user experiences.
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-🖥 **Languages**:
-- JavaScript
-- TypeScript
-- Python
-
-💻 **Frontend**:
-- React
-- Redux
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-
-🔌 **Backend**:
-- Node.js
-- Express.js
-
-💾 **Databases**:
-- MongoDB
-- MySQL
-- PostgreSQL
-
-🔧 **Tools**:
-- Git
-- GitHub
-- Visual Studio Code
-- Docker
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools**: Git, GitHub, Visual Studio Code, Docker
+- **Others**: Firebase, RESTful APIs, GraphQL
 
 ## 🚀 Skills
 <p>
