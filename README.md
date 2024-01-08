@@ -49,15 +49,15 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height="45"/> </a>
    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/> </a>
 
-### 💡 Projects
+## My Projects
 
-Here are some of my projects:
+Here are some projects I've worked on:
 
-1. **Project Name**: Description of the project. [Visit Site](#) | [GitHub](#)
-    - Technologies used: React, Redux, Firebase
-
-2. **Another Project**: Brief project description. [Visit Site](#) | [GitHub](#)
-    - Technologies used: Node.js, Express, MongoDB
+| Project Name | Description | Technologies Used | Link |
+| ------------ | ----------- | ----------------- | ---- |
+| Project 1 Name | Short description of Project 1 | Tech 1, Tech 2, ... | [Link](#) |
+| Project 2 Name | Short description of Project 2 | Tech 1, Tech 2, ... | [Link](#) |
+| Project 3 Name | Short description of Project 3 | Tech 1, Tech 2, ... | [Link](#) |
 
 ### 📈 GitHub Stats
 
