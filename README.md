@@ -7,15 +7,41 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
 
 ## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+
 **Languages**:
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript)
-- ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python)
-- **Frontend**: React, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, GitHub, Visual Studio Code, Docker
-- **Others**: Firebase, RESTful APIs, GraphQL
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**:
+- ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
+- ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat&logo=redux&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend**:
+- ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat&logo=express&logoColor=white)
+
+**Databases**:
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
+
+**Tools**:
+- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+
+**Others**:
+- ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-%2329BEB0?style=flat)
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=flat&logo=graphql&logoColor=white)
+
 
 ## 🚀 Skills
 <p>
@@ -60,8 +86,8 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | ------- | ----------- | ------------ | ------- |
 | **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of what this project does and what it's about. | `React`, `Tailwind`, `ContextApi`,`React Router`| ![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a)
 ) |
-| **[Project 2 Name](Project-Link)** | An engaging description that highlights the project's main features. | `Tech1`, `Tech2` | ![Project 2 Preview](Image-Link) |
-| **[Project 3 Name](Project-Link)** | A quick overview that explains the project's purpose and its impact. | `Tech1`, `Tech2`, `Tech3`, `Tech4` | ![Project 3 Preview](Image-Link) |
+| **[RecipeApp]([Project-Link](https://lnkd.in/d6M4yD-3))** | RecipeApp | `Tech1`, `Tech2` | ![Project 2 Preview](![recipe](https://github.com/baharkose/recipeapp/assets/110201916/1dbfee1e-78d9-47f3-9c13-2dddae86149f)) |
+| **[Project 3 Name](Project-Link)** | A quick overview that explains the project's purpose and its impact. | `#WebDevelopment #ReactJS #Firebase #TailwindCSS #CodingJourney #APIIntegration #api #firebase #contextproivder #router`,  | ![Project 3 Preview](Image-Link) |
 
 ### 📈 GitHub Stats
 
