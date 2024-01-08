@@ -7,8 +7,6 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 **Languages**:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
