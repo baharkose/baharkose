@@ -5,7 +5,7 @@
 
 I'm a passionate web developer specializing in front-end technologies. I love creating interactive and dynamic user experiences.
 
-🌐 ***Languages***:
+🌐 ****Languages****:
 JavaScript, TypeScript, Python
 
 💻 **Frontend**:
