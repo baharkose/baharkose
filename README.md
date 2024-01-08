@@ -49,7 +49,7 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height="45"/> </a>
    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/> </a>
 
-## My Projects
+## 🚀 My Projects
 
 Here are some projects I've worked on:
 
