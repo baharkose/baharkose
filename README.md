@@ -73,6 +73,6 @@ Here are some of my projects:
 ### 📫 How to Reach Me
 
 - LinkedIn: [Bahar Köse](https://www.linkedin.com/in/baharkose/)
-- Email: [baharkose@example.com](mailto:baharkose@example.com)
+- Email: [baharkose17@gmail.com](mailto:baharkose17@gmail.com)
 
 
