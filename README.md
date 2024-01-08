@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Bahar Köse!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Bahar_Köse-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baharkose/)
-![Profile Views](https://komarev.com/ghpvc/?username=baharkose)
+
 
 I'm a passionate web developer specializing in front-end technologies. I love creating interactive and dynamic user experiences.
 
