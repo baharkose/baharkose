@@ -7,7 +7,10 @@ I'm a passionate web developer specializing in front-end technologies. I love cr
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Python
+**Languages**:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript)
+- ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python)
 - **Frontend**: React, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL, PostgreSQL
