@@ -60,6 +60,8 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[BookStore](https://bookstrore.vercel.app/)** | This web development project combines React and Tailwind CSS to create a dynamic, user-friendly application with a custom-designed interface. | `React`, `Tailwind`, `useContext` | ![image](https://github.com/baharkose/baharkose/assets/110201916/4c8d600a-a73f-43e4-bcf1-2ae0d41a8cc5)
 | **[Shopping Card](https://shoppingcard-ashen.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Tailwind`, `useContext` | (![image](https://github.com/baharkose/baharkose/assets/110201916/b231f1b5-3eae-453f-a258-abad7b7a4614)
 | **[Sass Portifolio](https://sassportifolio-kle5n5uv8-baharkose.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Sass`, `browserrouter-link-route-switch` | (![image](https://github.com/baharkose/baharkose/assets/110201916/157b9cc0-002e-417e-9458-f2841711fab5)
+| **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` | ![image](https://github.com/baharkose/baharkose/assets/110201916/91f9d986-9e4c-49f9-9003-7d9f44740ae1)
+
 
 
 ### 📈 GitHub Stats
