@@ -62,6 +62,8 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[Sass Portifolio](https://sassportifolio-kle5n5uv8-baharkose.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Sass`, `browserrouter-link-route-switch` | ![image](https://github.com/baharkose/baharkose/assets/110201916/157b9cc0-002e-417e-9458-f2841711fab5)
 | **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` | ![image](https://github.com/baharkose/baharkose/assets/110201916/91f9d986-9e4c-49f9-9003-7d9f44740ae1)
 | **[Online StopWatch](https://baharkose.github.io/Online-StopWatch/)** |   web application created using the Javascript Html and Css | `JavaScript`, `Html`, `Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/fcc6b781-e5fa-49d6-827f-cd44883b87c0)
+| **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` | ![image](https://github.com/baharkose/baharkose/assets/110201916/ff6e1f7f-b82b-412e-951e-031ebb76398d)
+
 
 
 
