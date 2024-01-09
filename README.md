@@ -57,7 +57,10 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | ------- | ----------- | ------------ | ------- |
 | **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of the Store project. | `React`, `Tailwind`, `ContextApi`,`React Router` | ![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a) |
 | **[RecipeApp](https://lnkd.in/d6M4yD-3)** | Integrated Recipe API with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` | ![image](https://github.com/baharkose/baharkose/assets/110201916/43913ec7-983e-4b74-9dd5-37fb3d88e3cf) |
-| **[Project 3 Name](Project-Link)** | Overview of Project 3's purpose and impact. | `Tech1`, `Tech2`, `Tech3` | ![Project 3 Preview](Image-Link) |
+
+| **[BookStore](https://bookstrore.vercel.app/)** | Overview of Project 3's purpose and impact. | `React`, `Tailwind`, `useContext` | ![image](https://github.com/baharkose/baharkose/assets/110201916/937460b5-84af-4b5b-b340-7dc8d2d80d14))] | 
+
+| **[Project 3 Name](Project-Link)** |  dynamic web application created using the React framework, featuring a self-designed user interface, efficient navigation, and API integration. It showcases advanced skills in React, including using hooks, context for state management, and Tailwind CSS for a responsive, utility-first design approach | `React`, `Tailwind`, `useContext` | ![Project 3 Preview](Image-Link) |
 
 
 ### 📈 GitHub Stats
