@@ -63,6 +63,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` | ![image](https://github.com/baharkose/baharkose/assets/110201916/91f9d986-9e4c-49f9-9003-7d9f44740ae1)
 | **[Online StopWatch](https://baharkose.github.io/Online-StopWatch/)** |   web application created using the Javascript Html and Css | `JavaScript`, `Html`, `Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/fcc6b781-e5fa-49d6-827f-cd44883b87c0)
 | **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` | ![image](https://github.com/baharkose/baharkose/assets/110201916/ff6e1f7f-b82b-412e-951e-031ebb76398d)
+| **[CountryFinder](https://baharkose.github.io/Find-The-Countries/)** |   Country Finder Application with JavaScript | `JavaScript`, `Html`, `Pure Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/b52056d1-8de4-4201-a420-6e204e1acc6b)
 
 
 
