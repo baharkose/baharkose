@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Bahar 👩‍💻
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Bahar_Köse-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baharkose/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Bahar_Köse-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baharkose/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github_baharkose)
+
 
 
 🌈 I'm a passionate web developer ✨specializing in front-end technologies. I love creating interactive and dynamic user experiences.
