@@ -56,19 +56,19 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 ### FrontEnd Projects
 
 
-| Project | Description | Technologies | Preview | 
-| ------- | ----------- | ------------ | ------------ |
-| **[StockApp](https://github.com/baharkose/stock-app.git)** |a comprehensive project covering all topics . | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI`|![image](https://github.com/baharkose/baharkose/assets/110201916/db3facf5-138a-4899-8455-90809428a104) |
-| **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of the Store project. | `React`, `Tailwind`, `ContextApi`,`React Router` | ![image](https://github.com/baharkose/baharkose/assets/110201916/5f23610d-cc45-411b-bcfa-8467b4a1af0a) |
-| **[RecipeApp](https://github.com/baharkose/recipeapp)** | Integrated Recipe API with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` | ![image](https://github.com/baharkose/baharkose/assets/110201916/43913ec7-983e-4b74-9dd5-37fb3d88e3cf) |
-| **[BookStore](https://bookstrore.vercel.app/)** | This web development project combines React and Tailwind CSS to create a dynamic, user-friendly application with a custom-designed interface. | `React`, `Tailwind`, `useContext` | ![image](https://github.com/baharkose/baharkose/assets/110201916/4c8d600a-a73f-43e4-bcf1-2ae0d41a8cc5)
-| **[Shopping Card](https://shoppingcard-ashen.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Tailwind`, `useContext` | ![image](https://github.com/baharkose/baharkose/assets/110201916/b231f1b5-3eae-453f-a258-abad7b7a4614)
-| **[Sass Portifolio](https://sassportifolio-kle5n5uv8-baharkose.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Sass`, `browserrouter-link-route-switch` | ![image](https://github.com/baharkose/baharkose/assets/110201916/157b9cc0-002e-417e-9458-f2841711fab5)
-| **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` | ![image](https://github.com/baharkose/baharkose/assets/110201916/91f9d986-9e4c-49f9-9003-7d9f44740ae1)
-| **[Online StopWatch](https://baharkose.github.io/Online-StopWatch/)** |   web application created using the Javascript Html and Css | `JavaScript`, `Html`, `Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/fcc6b781-e5fa-49d6-827f-cd44883b87c0)
-| **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` | ![image](https://github.com/baharkose/baharkose/assets/110201916/ff6e1f7f-b82b-412e-951e-031ebb76398d)
-| **[CountryFinder](https://baharkose.github.io/Find-The-Countries/)** |   Country Finder Application with JavaScript | `JavaScript`, `Html`, `Pure Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/b52056d1-8de4-4201-a420-6e204e1acc6b)|
-| **[Blog App](https://github.com/baharkose/blogapp)** |  Blog App with React & MUI | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI` | -- |
+| Project | Description | Technologies | 
+| ------- | ----------- | ------------ |
+| **[StockApp](https://github.com/baharkose/stock-app.git)** |a comprehensive project covering all topics . | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI`|
+| **[Store](https://cstore-nine.vercel.app/dashboard/products)** | Brief description of the Store project. | `React`, `Tailwind`, `ContextApi`,`React Router` | 
+| **[RecipeApp](https://github.com/baharkose/recipeapp)** | Integrated Recipe API with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` |
+| **[BookStore](https://bookstrore.vercel.app/)** | This web development project combines React and Tailwind CSS to create a dynamic, user-friendly application with a custom-designed interface. | `React`, `Tailwind`, `useContext` |
+| **[Shopping Card](https://shoppingcard-ashen.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Tailwind`, `useContext` | 
+| **[Sass Portifolio](https://sassportifolio-kle5n5uv8-baharkose.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Sass`, `browserrouter-link-route-switch` | 
+| **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` |
+| **[Online StopWatch](https://baharkose.github.io/Online-StopWatch/)** |   web application created using the Javascript Html and Css | `JavaScript`, `Html`, `Css` |
+| **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` |
+| **[CountryFinder](https://baharkose.github.io/Find-The-Countries/)** |   Country Finder Application with JavaScript | `JavaScript`, `Html`, `Pure Css` |
+| **[Blog App](https://github.com/baharkose/blogapp)** |  Blog App with React & MUI | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI` | 
 
 ### Back-End Projects
 
