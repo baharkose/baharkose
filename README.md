@@ -71,6 +71,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` |
 | **[CountryFinder](https://baharkose.github.io/Find-The-Countries/)** |   Country Finder Application with JavaScript | `JavaScript`, `Html`, `Pure Css` |
 | **[Blog App](https://github.com/baharkose/blogapp)** |  Blog App with React & MUI | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI` | 
+| **[Hotel Advisor](https://github.com/baharkose/hoteladvisor)** |  Hote Advisor App with React & MUI | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI` | 
 
 ### Back-End Projects
 
