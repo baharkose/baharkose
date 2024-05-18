@@ -73,7 +73,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| **[Stock Api](https://github.com/baharkose/StockAPI)** |a comprehensive project covering all topics . | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`
+| **[Stock Api](https://github.com/baharkose/StockAPI)** |StockAPI is a comprehensive solution for managing inventory, sales, and purchases. It allows you to create, update, and track product stocks efficiently. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token` |
 
 ### FullStack Projects
 
