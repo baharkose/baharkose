@@ -71,7 +71,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 ### Back-End Projects
 
-| Project | Description | Technologies | Preview |
+| Project | Description | Technologies |
 | ------- | ----------- | ------------ |
 | **[Stock Api](https://github.com/baharkose/StockAPI)** |a comprehensive project covering all topics . | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`
 
