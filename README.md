@@ -51,9 +51,10 @@
    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="45"/> </a>
 
 ## 🚀 My Projects
+I love working on a variety of projects. Here's a look at some of my favorites:
 
 ### FrontEnd Projects
-I love working on a variety of projects. Here's a look at some of my favorites:
+
 
 | Project | Description | Technologies | Preview |
 | ------- | ----------- | ------------ | ------- |
@@ -68,7 +69,13 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[Horoscope](https://horoscope-ecru.vercel.app/)** |   E-Horoscope Application with React and Sass | `React`, `Html`, `Sass` | ![image](https://github.com/baharkose/baharkose/assets/110201916/ff6e1f7f-b82b-412e-951e-031ebb76398d)
 | **[CountryFinder](https://baharkose.github.io/Find-The-Countries/)** |   Country Finder Application with JavaScript | `JavaScript`, `Html`, `Pure Css` | ![image](https://github.com/baharkose/baharkose/assets/110201916/b52056d1-8de4-4201-a420-6e204e1acc6b)
 
+### Back-End Projects
 
+| Project | Description | Technologies | Preview |
+| ------- | ----------- | ------------ |
+| **[Stock Api](https://github.com/baharkose/StockAPI)** |a comprehensive project covering all topics . | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`
+
+### FullStack Projects
 
 
 ### 📈 GitHub Stats
