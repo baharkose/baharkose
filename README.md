@@ -73,9 +73,9 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| **[Stock Api](https://github.com/baharkose/StockAPI)** |StockAPI is a comprehensive solution for managing inventory, sales, and purchases. It allows you to create, update, and track product stocks efficiently. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares`|
+| **[Stock Api](https://github.com/baharkose/StockAPI)** |StockAPI is a comprehensive solution for managing inventory, sales, and purchases. It allows you to create, update, and track product stocks efficiently. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares`,`Error-Handling`,`Postman`|
 | **[Hotel Api](https://github.com/baharkose/HotelApi)** |Our Hotel API offers streamlined access to a vast network of global accommodations, enabling real-time booking and detailed information retrieval. Ideal for enhancing travel platforms and booking systems, it simplifies integration and boosts operational efficiency. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares` |
-| **[Store Api](https://github.com/baharkose/HotelApi](https://github.com/baharkose/Store)** |Our Store API provides seamless integration for retail management systems, enabling efficient inventory tracking, product management, and order processing. It’s designed to enhance e-commerce platforms and in-store technologies by simplifying data exchange and improving user experiences. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares` |
+| **[Store Api](https://github.com/baharkose/Store)** |Our Store API provides seamless integration for retail management systems, enabling efficient inventory tracking, product management, and order processing. It’s designed to enhance e-commerce platforms and in-store technologies by simplifying data exchange and improving user experiences. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares` |
 ### FullStack Projects
 
 
