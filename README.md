@@ -64,7 +64,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 | **[Movie App](https://github.com/baharkose/movie-app)** | Integrated Movie App with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` |
 | **[Store App](https://github.com/baharkose/cstore)** | Brief description of the Store project. | `React`, `Tailwind`, `ContextApi`,`React Router` | 
 | **[BookStore](https://github.com/baharkose/bookstrore)** | This web development project combines React and Tailwind CSS to create a dynamic, user-friendly application with a custom-designed interface. | `React`, `Tailwind`, `useContext` |
-| **[Shopping Card](https://shoppingcard-ashen.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Tailwind`, `useContext` | 
+| **[Shopping Card](https://github.com/baharkose/shoppingcard)** |  dynamic web application created using the React framework,  | `React`, `Tailwind`, `useContext` | 
 | **[Sass Portifolio](https://sassportifolio-kle5n5uv8-baharkose.vercel.app/)** |  dynamic web application created using the React framework,  | `React`, `Sass`, `browserrouter-link-route-switch` | 
 | **[Todo App](https://todo-xi-swart.vercel.app/)** |  dynamic web application created using the React framework, localstorage, useState, useEffectHooks | `React`, `useEffect`, `localstorage` |
 | **[Online StopWatch](https://baharkose.github.io/Online-StopWatch/)** |   web application created using the Javascript Html and Css | `JavaScript`, `Html`, `Css` |
