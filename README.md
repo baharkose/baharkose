@@ -52,6 +52,7 @@
 
 ## 🚀 My Projects
 
+### FrontEnd Projects
 I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies | Preview |
