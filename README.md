@@ -73,8 +73,8 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| **[Stock Api](https://github.com/baharkose/StockAPI)** |StockAPI is a comprehensive solution for managing inventory, sales, and purchases. It allows you to create, update, and track product stocks efficiently. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token` |
-
+| **[Stock Api](https://github.com/baharkose/StockAPI)** |StockAPI is a comprehensive solution for managing inventory, sales, and purchases. It allows you to create, update, and track product stocks efficiently. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares`|
+| **[Hotel Api](https://github.com/baharkose/HotelApi)** |Our Hotel API offers streamlined access to a vast network of global accommodations, enabling real-time booking and detailed information retrieval. Ideal for enhancing travel platforms and booking systems, it simplifies integration and boosts operational efficiency. | `Express`, `Mongoose`, `Swagger`,`MVC`,`JWT` ,`Token`,`Permissions` ,`MiddleWares` |
 ### FullStack Projects
 
 
