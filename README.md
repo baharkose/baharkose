@@ -58,7 +58,7 @@ I love working on a variety of projects. Here's a look at some of my favorites:
 
 | Project | Description | Technologies | 
 | ------- | ----------- | ------------ |
-| **[Stock App](https://github.com/baharkose/stock-app.git)** |a comprehensive project covering all topics . | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI`|
+| **[Stock App](https://github.com/baharkose/stock-appN)** |a comprehensive project covering all topics . | `React`, `Tailwind`, `ContextApi`,`React Router`,`Reducer` ,`MUI`|
 | **[Blog App](https://github.com/baharkose/blogapp)** | a comprehensive Blog App project covering all topics. | `Tailwind`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi`,`Toolkit`,`Query`, |
 | **[Recipe App](https://github.com/baharkose/recipeapp)** | Integrated Recipe App with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` |
 | **[Movie App](https://github.com/baharkose/movie-app)** | Integrated Movie App with React Router & Firebase in SPA. | `Firebase`, `API`, `React`, `PrivateRouter`,`Tailwind`, `ContextApi` |
